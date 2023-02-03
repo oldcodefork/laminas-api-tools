@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools",
+    "name": "oldcodefork/laminas-api-tools",
     "description": "Laminas API Tools module for Laminas",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -29,9 +29,9 @@
         }
     },
     "require": {
-        "php": "^7.3 || ~8.0.0 || ~8.1.0",
+        "php": "^7.3 || ~8.0.0 || ~8.1.0 || ~8.2.0",
         "laminas-api-tools/api-tools-api-problem": "^1.4",
-        "laminas-api-tools/api-tools-content-negotiation": "^1.5",
+        "oldcodefork/laminas-api-tools-content-negotiation": "^1.0",
         "laminas-api-tools/api-tools-content-validation": "^1.9",
         "laminas-api-tools/api-tools-hal": "^1.4.1",
         "laminas-api-tools/api-tools-mvc-auth": "^1.6.0",
