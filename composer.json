@@ -39,7 +39,7 @@
         "oldcodefork/laminas-api-tools-provider": "^1.0",
         "oldcodefork/laminas-api-tools-rest": "^1.0",
         "oldcodefork/laminas-api-tools-rpc": "^1.0",
-        "laminas-api-tools/api-tools-versioning": "^1.4",
+        "oldcodefork/laminas-api-tools-versioning": "^1.0",
         "laminas/laminas-db": "^2.8.1",
         "laminas/laminas-eventmanager": "^2.6.3 || ^3.0.1",
         "laminas/laminas-loader": "^2.5.1",
