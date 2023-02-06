@@ -34,7 +34,7 @@
         "oldcodefork/laminas-api-tools-content-negotiation": "^1.0",
         "oldcodefork/laminas-api-tools-content-validation": "^1.0",
         "oldcodefork/laminas-api-tools-hal": "^1.0",
-        "laminas-api-tools/api-tools-mvc-auth": "^1.6.0",
+        "oldcodefork/laminas-api-tools-mvc-auth": "^1.0",
         "oldcodefork/laminas-api-tools-oauth2": "^1.0",
         "oldcodefork/laminas-api-tools-provider": "^1.0",
         "laminas-api-tools/api-tools-rest": "^1.6.0",
